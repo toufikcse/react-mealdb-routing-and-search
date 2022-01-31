@@ -1,0 +1,9 @@
+.search-container {
+    background-color: aquamarine;
+    line-height: 30px;
+}
+.search-container input {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 500px;
+}
